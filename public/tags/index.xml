@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on DesignYourself</title>
-    <link>zhengxixuan.com/tags/</link>
+    <link>https://zhengxixuan.github.io/tags/</link>
     <description>Recent content in Tags on DesignYourself</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>郑嘻嘻</copyright>
     
-	<atom:link href="zhengxixuan.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zhengxixuan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
