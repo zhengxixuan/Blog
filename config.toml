@@ -1,4 +1,4 @@
-baseURL = "https://zhengxixuan.github.io/"
+baseURL = "zhengxixuan.github.io"
 languageCode = "zh-cn"
 title = "DesignYourself"
 theme = "cactus"
