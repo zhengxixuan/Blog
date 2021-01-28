@@ -1,4 +1,4 @@
-baseURL = "http://zhengxixuan.com/"
+baseURL = "zhengxixuan.com"
 languageCode = "zh-cn"
 title = "DesignYourself"
 theme = "cactus"
