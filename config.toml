@@ -1,6 +1,6 @@
-baseURL = "zhengxixuan.github.io"
+baseURL = "https://zhengxixuan.github.io"
 languageCode = "zh-cn"
-title = "DesignYourself"
+title = "追寻理性 重建信仰"
 theme = "cactus"
 copyright = "郑嘻嘻"
 disqusShortname = "zhengxixuan" 

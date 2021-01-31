@@ -1,14 +1,9 @@
 {
   "list": [
     {
-      "name":"Hugo",
-      "url":"https://gohugo.io/",
-      "desc":"The world’s fastest framework for building websites."
-    },
-    {
-      "name":"Hugo Themes",
-      "url":"https://github.com/gohugoio/hugoThemes",
-      "desc":"A curated directory of Hugo themes"
+      "name":"课程笔记-像黑客一样思考",
+      "url":"https://zhengxixuan.gitbooks.io/firstbook/content/",
+      "desc":"一次相遇，一切探索的开端。"
     }
   ]
 }
