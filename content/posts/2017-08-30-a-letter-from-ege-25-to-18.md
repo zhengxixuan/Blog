@@ -1,8 +1,9 @@
 ---
 title: "在25岁时写给18岁的自己"
-date: 2017-08-30T22:43:19+08:00
-tags: 感悟
-categories: letters
+date: 2017-08-30 22:43:19
+tags: 
+    - 感悟
+category: life
 keywords: 
     - 对话
     - 自我
